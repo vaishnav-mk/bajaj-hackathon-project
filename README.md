@@ -1,4 +1,5 @@
 # Team Ctrl-Alt-Del
+## This only has the frontend code (will be updated once backend goes open source)
 
 ## Problem Statement
 
@@ -207,7 +208,7 @@ For each article, we have the following data:
         </a>
       </p>
     </td>
-    <td> Alvin Ben Geaorge <p align="center">
+    <td> Alvin Ben George <p align="center">
         <img src="https://avatars.githubusercontent.com/alvinbengeorge" height="120" alt="alvinbengeorge">
       </p>
       <p align="center">
