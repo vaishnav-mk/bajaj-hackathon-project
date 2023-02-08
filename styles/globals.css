@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+body {
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
+  width: 100%;
+  line-height: 1.8rem;
+  scroll-behavior: smooth;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-bold  transition-colors duration-500 mb-3 mt-2;
+}
+
+h1 {
+  @apply text-5xl 2xl:text-7xl;
+}
+
+h2 {
+  @apply text-3xl mb-3 mt-2;
+}
+
+h3 {
+  @apply text-base;
+}
